@@ -1,0 +1,51 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+#nav:hover{
+   color: rgb(36, 143, 36);
+}
+#collapsible-nav-dropdown:hover{
+    color: rgb(36, 143, 36);
+}
+.search{
+    background-color: rgb(9, 60, 9);
+}
+#search{
+  margin-left: 25%;
+}
+.icon{
+    margin-left: -55px;
+    background-color: green;
+    padding:12px;
+}
+.fiverr{
+    padding-top: 90px;
+    /* padding-left: 55px; */
+}
+
+.logo{
+    background-color: rgba(250, 218, 238, 0.438);
+}
+.para{
+   font-weight: 100;
+}
+.title{
+    margin-left: -4%;
+}
+.bg{
+    background-color: rgb(88, 12, 50);
+    
+}
+
+.navbar {
+   
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Adjust the z-index as needed */
+  }
+ 
+  
+  
